@@ -4,7 +4,7 @@ This project is a simple to-do tracker application designed to help users keep t
 
 ## ⚙️ Tech Stack
 
-. C#
+-   C#
 
 Make sure you have the following installed on your machine:
 
